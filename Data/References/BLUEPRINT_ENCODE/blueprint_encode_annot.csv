@@ -1,0 +1,260 @@
+;level1;level2
+mature.neutrophil;Neutrophils;
+CD14.positive..CD16.negative.classical.monocyte;Monocytes;
+mature.neutrophil.1;Neutrophils;
+megakaryocyte.erythroid.progenitor.cell;HSC;HSC:MEP
+mature.neutrophil.2;Neutrophils;
+CD14.positive..CD16.negative.classical.monocyte.1;Monocytes;
+mature.neutrophil.3;Neutrophils;
+CD14.positive..CD16.negative.classical.monocyte.2;Monocytes;
+mature.neutrophil.4;Neutrophils;
+mature.neutrophil.5;Neutrophils;
+mature.neutrophil.6;Neutrophils;
+CD4.positive..alpha.beta.T.cell;T-cells;
+regulatory.T.cell;T-cells;T-cells:Tregs
+central.memory.CD4.positive..alpha.beta.T.cell;T-cells;T-cells:CD4+ Tcm
+effector.memory.CD4.positive..alpha.beta.T.cell;T-cells;T-cells:CD4+ Tem
+central.memory.CD8.positive..alpha.beta.T.cell;T-cells;T-cells:CD8+ Tcm
+effector.memory.CD8.positive..alpha.beta.T.cell;T-cells;T-cells:CD8+ Tem
+CD14.positive..CD16.negative.classical.monocyte.3;Monocytes;
+cytotoxic.CD56.dim.natural.killer.cell;NK cells;
+CD38.negative.naive.B.cell;B-cells;B-cells:naive
+memory.B.cell;B-cells;B-cells:Memory
+class.switched.memory.B.cell;B-cells;B-cells:Class-switched memory B-cells
+cytotoxic.CD56.dim.natural.killer.cell.1;NK cells;
+mature.neutrophil.7;Neutrophils;
+CD14.positive..CD16.negative.classical.monocyte.4;Monocytes;
+hematopoietic.stem.cell;HSC;
+hematopoietic.multipotent.progenitor.cell;HSC;HSC:MPP
+common.lymphoid.progenitor;HSC;HSC:CLP
+granulocyte.monocyte.progenitor.cell;HSC;HSC:GMP
+mature.neutrophil.8;Neutrophils;
+CD14.positive..CD16.negative.classical.monocyte.5;Monocytes;
+CD38.negative.naive.B.cell.1;B-cells;B-cells:naive
+CD14.positive..CD16.negative.classical.monocyte.6;Monocytes;
+macrophage;Macrophages;
+CD8.positive..alpha.beta.T.cell;T-cells;
+cytotoxic.CD56.dim.natural.killer.cell.2;NK cells;
+erythroblast;Erythrocytes;
+CD34.negative..CD41.positive..CD42.positive.megakaryocyte.cell;HSC;HSC:Megakaryocytes
+erythroblast.1;Erythrocytes;
+erythroblast.2;Erythrocytes;
+erythroblast.3;Erythrocytes;
+erythroblast.4;Erythrocytes;
+hematopoietic.stem.cell.1;HSC;
+common.myeloid.progenitor;HSC;HSC:CMP
+granulocyte.monocyte.progenitor.cell.1;HSC;HSC:GMP
+megakaryocyte.erythroid.progenitor.cell.1;HSC;HSC:MEP
+hematopoietic.multipotent.progenitor.cell.1;HSC;HSC:MPP
+common.lymphoid.progenitor.1;HSC;HSC:CLP
+common.myeloid.progenitor.1;HSC;HSC:CMP
+megakaryocyte.erythroid.progenitor.cell.2;HSC;HSC:MEP
+hematopoietic.stem.cell.2;HSC;
+megakaryocyte.erythroid.progenitor.cell.3;HSC;HSC:MEP
+common.myeloid.progenitor.2;HSC;HSC:CMP
+granulocyte.monocyte.progenitor.cell.2;HSC;HSC:GMP
+mature.neutrophil.9;Neutrophils;
+CD14.positive..CD16.negative.classical.monocyte.7;Monocytes;
+CD4.positive..alpha.beta.T.cell.1;T-cells;
+common.lymphoid.progenitor.2;HSC;HSC:CLP
+CD4.positive..alpha.beta.T.cell.2;T-cells;
+CD34.negative..CD41.positive..CD42.positive.megakaryocyte.cell.1;HSC;HSC:Megakaryocytes
+CD34.negative..CD41.positive..CD42.positive.megakaryocyte.cell.2;HSC;HSC:Megakaryocytes
+common.lymphoid.progenitor.3;HSC;HSC:CLP
+hematopoietic.stem.cell.3;HSC;
+hematopoietic.multipotent.progenitor.cell.2;HSC;HSC:MPP
+inflammatory.macrophage;Macrophages;Macrophages:M1
+hematopoietic.stem.cell.4;HSC;
+common.lymphoid.progenitor.4;HSC;HSC:CLP
+macrophage.1;Macrophages;
+inflammatory.macrophage.1;Macrophages;Macrophages:M1
+macrophage.2;Macrophages;
+inflammatory.macrophage.2;Macrophages;Macrophages:M1
+hematopoietic.stem.cell.5;HSC;
+CD4.positive..alpha.beta.T.cell.3;T-cells;
+erythroblast.5;Erythrocytes;
+erythroblast.6;Erythrocytes;
+macrophage.3;Macrophages;
+CD4.positive..alpha.beta.T.cell.4;T-cells;
+CD34.negative..CD41.positive..CD42.positive.megakaryocyte.cell.3;HSC;HSC:Megakaryocytes
+CD4.positive..alpha.beta.T.cell.5;T-cells;
+myeloid.cell;HSC;HSC:CMP
+myeloid.cell.1;HSC;HSC:CMP
+myeloid.cell.2;HSC;HSC:CMP
+alternatively.activated.macrophage;Macrophages;Macrophages:M2
+CD4.positive..alpha.beta.T.cell.6;T-cells;
+CD4.positive..alpha.beta.T.cell.7;T-cells;
+CD4.positive..alpha.beta.T.cell.8;T-cells;
+myeloid.cell.3;HSC;HSC:CMP
+myeloid.cell.4;HSC;HSC:CMP
+myeloid.cell.5;HSC;HSC:CMP
+myeloid.cell.6;HSC;HSC:CMP
+myeloid.cell.7;HSC;HSC:CMP
+CD4.positive..alpha.beta.T.cell.9;T-cells;
+macrophage.4;Macrophages;
+endothelial.cell.of.umbilical.vein..proliferating.;Endothelial cells;
+endothelial.cell.of.umbilical.vein..resting.;Endothelial cells;
+alternatively.activated.macrophage.1;Macrophages;Macrophages:M2
+monocyte;Monocytes;
+macrophage.5;Macrophages;
+macrophage.6;Macrophages;
+macrophage.7;Macrophages;
+alternatively.activated.macrophage.2;Macrophages;Macrophages:M2
+CD8.positive..alpha.beta.T.cell.1;T-cells;
+conventional.dendritic.cell;DC;
+monocyte.1;Monocytes;
+macrophage.8;Macrophages;
+macrophage.9;Macrophages;
+macrophage.10;Macrophages;
+endothelial.cell.of.umbilical.vein..proliferating..1;Endothelial cells;
+endothelial.cell.of.umbilical.vein..resting..1;Endothelial cells;
+macrophage.11;Macrophages;
+mature.neutrophil.10;Neutrophils;
+mature.neutrophil.11;Neutrophils;
+mature.neutrophil.12;Neutrophils;
+monocyte.2;Monocytes;
+macrophage.12;Macrophages;
+macrophage.13;Macrophages;
+macrophage.14;Macrophages;
+alternatively.activated.macrophage.3;Macrophages;Macrophages:M2
+monocyte.3;Monocytes;
+macrophage.15;Macrophages;
+macrophage.16;Macrophages;
+macrophage.17;Macrophages;
+CD34.negative..CD41.positive..CD42.positive.megakaryocyte.cell.4;HSC;HSC:Megakaryocytes
+mature.neutrophil.13;Neutrophils;
+mature.neutrophil.14;Neutrophils;
+mature.neutrophil.15;Neutrophils;
+mature.eosinophil;Eosinophils;
+mature.neutrophil.16;Neutrophils;
+band.form.neutrophil;Neutrophils;
+segmented.neutrophil.of.bone.marrow;Neutrophils;
+band.form.neutrophil.1;Neutrophils;
+segmented.neutrophil.of.bone.marrow.1;Neutrophils;
+band.form.neutrophil.2;Neutrophils;
+segmented.neutrophil.of.bone.marrow.2;Neutrophils;
+monocyte.4;Monocytes;
+monocyte.5;Monocytes;
+monocyte.6;Monocytes;
+monocyte.7;Monocytes;
+CD4.positive..alpha.beta.thymocyte;T-cells;
+CD8.positive..alpha.beta.thymocyte;T-cells;
+plasma.cell;B-cells;B-cells:Plasma cells
+plasma.cell.1;B-cells;B-cells:Plasma cells
+plasma.cell.2;B-cells;B-cells:Plasma cells
+plasma.cell.3;B-cells;B-cells:Plasma cells
+articular.chondrocyte.of.knee.joint;Chondrocytes;
+pericardium.fibroblast;Fibroblasts;
+smooth.muscle.cell.of.the.umbilical.artery;Smooth muscle;
+smooth.muscle.cell.of.trachea;Smooth muscle;
+epithelial.cell.of.proximal.tubule;Epithelial cells;
+fibroblast.of.dermis;Fibroblasts;
+melanocyte.of.skin;Melanocytes;
+skeletal.muscle.tissue;Skeletal muscle;
+renal.cortical.epithelial.cell;Epithelial cells;
+hair.follicular.keratinocyte;Keratinocytes;
+fibroblast.of.arm;Fibroblasts;
+melanocyte.of.skin.1;Melanocytes;
+dermis.microvascular.lymphatic.vessel.endothelial.cell;Endothelial cells;
+hematopoietic.multipotent.progenitor.cell.3;HSC;HSC:MPP
+fibroblast.of.the.aortic.adventitia;Fibroblasts;
+bronchus.fibroblast.of.lung;Fibroblasts;
+articular.chondrocyte.of.knee.joint.1;Chondrocytes;
+lung.microvascular.endothelial.cell;Endothelial cells;Endothelial cells:mv Endothelial cells
+mammary.microvascular.endothelial.cell;Endothelial cells;Endothelial cells:mv Endothelial cells
+kidney.epithelial.cell;Epithelial cells;
+fibroblast.of.arm.1;Fibroblasts;
+melanocyte.of.skin.2;Melanocytes;
+smooth.muscle.cell.of.the.pulmonary.artery;Smooth muscle;
+regular.cardiac.myocyte;Myocytes;
+renal.cortical.epithelial.cell.1;Epithelial cells;
+lung.microvascular.endothelial.cell.1;Endothelial cells;Endothelial cells:mv Endothelial cells
+regular.cardiac.myocyte.1;Myocytes;
+tracheal.epithelial.cell;Epithelial cells;
+endothelial.cell.of.coronary.artery;Endothelial cells;
+adipose.tissue.of.omentum;Adipocytes;
+bladder.microvascular.endothelial.cell;Endothelial cells;Endothelial cells:mv Endothelial cells
+cardiac.atrium.fibroblast;Fibroblasts;
+skeletal.muscle.tissue.1;Skeletal muscle;
+fibroblast.of.villous.mesenchyme;Fibroblasts;
+smooth.muscle.cell.of.the.coronary.artery;Smooth muscle;
+smooth.muscle.cell.of.the.pulmonary.artery.1;Smooth muscle;
+skeletal.muscle.tissue.2;Skeletal muscle;
+Purkinje.cell;Neurons;
+endometrial.microvascular.endothelial.cells;Endothelial cells;Endothelial cells:mv Endothelial cells
+cardiac.ventricle.fibroblast;Fibroblasts;
+fibroblast.of.arm.2;Fibroblasts;
+aortic.smooth.muscle.cell;Smooth muscle;
+vein.endothelial.cell;Endothelial cells;
+adipose.tissue;Adipocytes;
+smooth.muscle.cell.of.trachea.1;Smooth muscle;
+endothelial.cell.of.coronary.artery.1;Endothelial cells;
+bladder.microvascular.endothelial.cell.1;Endothelial cells;Endothelial cells:mv Endothelial cells
+adipose.tissue.1;Adipocytes;
+smooth.muscle.cell.of.bladder;Smooth muscle;
+cardiac.ventricle.fibroblast.1;Fibroblasts;
+pericyte.cell;Pericytes;
+kidney.epithelial.cell.1;Epithelial cells;
+pericyte.cell.1;Pericytes;
+subcutaneous.preadipocyte;Adipocytes;Adipocytes:Preadipocytes
+melanocyte.of.skin.3;Melanocytes;
+adipose.tissue.of.omentum.1;Adipocytes;
+epithelial.cell.of.proximal.tubule.1;Epithelial cells;
+fibroblast.of.lung;Fibroblasts;
+epithelial.cell.of.alveolus.of.lung;Epithelial cells;
+smooth.muscle.cell.of.bladder.1;Smooth muscle;
+cardiac.atrium.fibroblast.1;Fibroblasts;
+hair.follicular.keratinocyte.1;Keratinocytes;
+epithelial.cell.of.umbilical.artery;Epithelial cells;
+astrocyte;Adipocytes;Adipocytes:Astrocytes
+endometrial.microvascular.endothelial.cells.1;Endothelial cells;Endothelial cells:mv Endothelial cells
+fibroblast.of.lung.1;Fibroblasts;
+glomerular.endothelial.cell;Endothelial cells;
+nasal.cavity.respiratory.epithelium.epithelial.cell.of.viscerocranial.mucosa;Epithelial cells;
+fibroblast.of.the.aortic.adventitia.1;Fibroblasts;
+airway.epithelial.cell;Epithelial cells;
+vein.endothelial.cell.1;Endothelial cells;
+glomerular.endothelial.cell.1;Endothelial cells;
+bronchus.fibroblast.of.lung.1;Fibroblasts;
+dermis.blood.vessel.endothelial.cell;Endothelial cells;
+pericardium.fibroblast.1;Fibroblasts;
+Purkinje.cell.1;Neurons;
+skeletal.muscle.tissue.3;Skeletal muscle;
+subcutaneous.preadipocyte.1;Adipocytes;Adipocytes:Preadipocytes
+mesangial.cell;Mesangial cells;
+mammary.microvascular.endothelial.cell.1;Endothelial cells;Endothelial cells:mv Endothelial cells
+Purkinje.cell.2;Neurons;
+skeletal.muscle.tissue.4;Skeletal muscle;
+dermis.blood.vessel.endothelial.cell.1;Endothelial cells;
+adipose.tissue.2;Adipocytes;
+nasal.cavity.respiratory.epithelium.epithelial.cell.of.viscerocranial.mucosa.1;Epithelial cells;
+epithelial.cell.of.alveolus.of.lung.1;Epithelial cells;
+placental.epithelial.cell;Epithelial cells;
+uterine.smooth.muscle.cell;Smooth muscle;
+smooth.muscle.cell.of.the.umbilical.artery.1;Smooth muscle;
+placental.epithelial.cell.1;Epithelial cells;
+smooth.muscle.cell.of.the.coronary.artery.1;Smooth muscle;
+dermis.microvascular.lymphatic.vessel.endothelial.cell.1;Endothelial cells;
+aortic.smooth.muscle.cell.1;Smooth muscle;
+fibroblast.of.arm.3;Fibroblasts;
+astrocyte.1;Adipocytes;Adipocytes:Astrocytes
+airway.epithelial.cell.1;Epithelial cells;
+dermis.lymphatic.vessel.endothelial.cell;Endothelial cells;
+skeletal.muscle.myoblast;Myocytes;
+skeletal.muscle.tissue.5;Skeletal muscle;
+thoracic.aorta.endothelial.cell;Endothelial cells;
+tracheal.epithelial.cell.1;Epithelial cells;
+mesangial.cell.1;Mesangial cells;
+adipose.tissue.3;Adipocytes;
+bronchial.smooth.muscle.cell;Smooth muscle;
+skeletal.muscle.myoblast.1;Myocytes;
+Purkinje.cell.3;Neurons;
+thoracic.aorta.endothelial.cell.1;Endothelial cells;
+fibroblast.of.villous.mesenchyme.1;Fibroblasts;
+uterine.smooth.muscle.cell.1;Smooth muscle;
+bronchial.smooth.muscle.cell.1;Smooth muscle;
+skeletal.muscle.tissue.6;Skeletal muscle;
+adipose.tissue.of.omentum.2;Adipocytes;
+fibroblast.of.dermis.1;Fibroblasts;
+epithelial.cell.of.umbilical.artery.1;Epithelial cells;
+dermis.lymphatic.vessel.endothelial.cell.1;Endothelial cells;
