@@ -220,9 +220,8 @@ def paiwiseComparison(sc_data, refDataset, annot, de, level, combinations, type1
     cells.extend(annot[annot[level] == type2].index)
     
     cor = scipy.stats.spearmanr(sc_data.loc[de_merged], refDataset.loc[de_merged, cells])
-    cor = pd.DataFrame(cor[0]).iloc[:,0:len(sc_data.columns)][-len(cells):]
+    cor = pd.DataFrame(cor[0]).iloc[:,0:len(sc_data.columns)][-len(cells):].replace(float("NaN"),0)
     cor.columns = sc_data.columns
     cor[level] = annot[level].loc[cells].values
     comparison_res = pd.DataFrame(cor.groupby(level).quantile(q = 0.8).idxmax(), columns = ["type"])
     return comparison_res
-
